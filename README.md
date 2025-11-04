@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anderson29-nsconsultoria/anderson29-nsconsultoria/refs/heads/main/banner-github.png" width="100%" alt="Banner - Anderson Souza">
+  <img src="https://raw.githubusercontent.com/anderson-souza-tech/anderson-souza-tech/refs/heads/main/banner-github.png" alt="Banner - Anderson Souza" width="100%">
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Anderson Souza</h1>
 
 <p align="center">
   💻 <strong>Analista de Suporte N2 | Pentest | Segurança da Informação</strong><br>
-  🔐 Apaixonado por Cibersegurança, Automação e Desenvolvimento web.<br>
-  ☁️ Explorando Linux, Cloud, DevSecOps e Desenvolvimento Web.
+  🔐 Apaixonado por Cibersegurança, Automação e Desenvolvimento Web.<br>
+  ☁️ Explorando Linux, Cloud, DevSecOps e Desenvolvimento Full Stack.
 </p>
 
 ---
@@ -31,9 +31,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -43,8 +44,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anderson29-nsconsultoria&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson29-nsconsultoria&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anderson-souza-tech&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-souza-tech&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
@@ -57,7 +58,7 @@
   <a href="mailto:anderson.souza@nsconsultoria.cloud">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://anderson29-nsconsultoria.github.io/portfolio/" target="_blank">
+  <a href="https://anderson-souza-tech.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfólio-000000?style=for-the-badge">
   </a>
 </p>
