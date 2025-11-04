@@ -2,6 +2,7 @@
   <img src="https://raw.githubusercontent.com/anderson-souza-tech/anderson-souza-tech/refs/heads/main/banner-github.png" alt="Banner - Anderson Souza" width="100%">
 </p>
 
+
 <h1 align="center">👋 Olá, eu sou o Anderson Souza</h1>
 
 <p align="center">
