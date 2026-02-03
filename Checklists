@@ -1,0 +1,29 @@
+📋 SAP BASIS Daily Health Check (DHC)
+
+Este checklist representa as tarefas críticas executadas diariamente por um consultor Basis para garantir a disponibilidade e segurança do sistema.
+
+1. Monitorização de Processos e Sistema
+
+• SM50/SM66: Verificar se existem Work Processes bloqueados ou em erro (PRIV/HOLD).
+
+• ST22: Analisar Dumps de sistema das últimas 24 horas.
+
+• SM37: Validar se jobs críticos de background falharam.
+
+• SICK: Executar verificação de consistência do Kernel e Instância.
+
+2. Performance e Infraestrutura
+
+• ST02: Monitorizar a saúde dos Buffers (Swap/Hit Ratio).
+
+• DB02: Verificar o crescimento da Base de Dados e espaço em disco (File Systems).
+
+• ST06/OS07N: Monitorizar carga de CPU e Memória ao nível do Sistema Operativo.
+
+3. Segurança e Auditoria
+
+• SM20: Analisar o Security Audit Log em busca de tentativas de acesso falhadas.
+
+• SU01: Validar se existem bloqueios excessivos de utilizadores.
+
+• SMGW: Verificar a segurança e integridade do SAP Gateway.
