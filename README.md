@@ -29,3 +29,5 @@ Abaixo as transações e processos que estou dominando durante a formação **SA
 | Service Desk Excellence | Hardening de Sistemas | Virtualização (VMware/Proxmox) |
 
 ---
+
+📂 Acesse meu Laboratório Técnico de BASIS & Security: Clique aqui para ver os Checklists e Conceitos
