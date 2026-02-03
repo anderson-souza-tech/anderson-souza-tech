@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anderson-souza-tech/anderson-souza-tech/main/banner-github.png" alt="Banner - Anderson Souza" width="100%">
-</p>
-
-<!--<p align="center">
-  <img src="https://raw.githubusercontent.com/anderson-souza-tech/anderson-souza-tech/refs/heads/main/typing.png" alt="Anderson Souza - Analista de TI" width="700">
-</p>*/-->
-
 ## 🛡️ SAP BASIS & Cybersecurity Specialist in Training
 
 [![SAP](https://img.shields.io/badge/SAP-NetWeaver-008FD3?style=for-the-badge&logo=sap&logoColor=white)](https://github.com/anderson-souza-tech)
@@ -37,5 +29,3 @@ Abaixo as transações e processos que estou dominando durante a formação **SA
 | Service Desk Excellence | Hardening de Sistemas | Virtualização (VMware/Proxmox) |
 
 ---
-  ⚡ <em>“A segurança da informação não é um destino — é uma jornada contínua de aprendizado e evolução.”</em>
-</p>
